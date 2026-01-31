@@ -224,7 +224,6 @@ jobs:
           watch_title \
           2hlollipop \
           meal_week \
-          2002 \
           basal_lock
           
           # the final customization listed above CANNOT have a continuation character
